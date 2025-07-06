@@ -1,0 +1,5 @@
+'''
+operadores de atribuição 
+
+= += -= *= /= //=   **= %= 
+'''
