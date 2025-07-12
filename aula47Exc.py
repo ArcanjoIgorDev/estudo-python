@@ -24,7 +24,7 @@ while True:
 
     if palavra_formada == 'barco':
         print(palavra_formada)
-        print('Parabéns!!! você acertou a palavra')
+        print(f'Parabéns!!! você acertou a palavra e usou {tentativas} tentativas')
         break
         
 
